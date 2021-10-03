@@ -1,0 +1,11 @@
+Crear modelo Cupon y relacionarlo con Order.
+
+Cupon debe contener un atributo boolean para indetificar si es un cupon especial de uso único o uno de uso masivo.
+
+Cupon debe contener un atributo para el codigo identificador del cupon. 
+
+Cupon debe contener un atributo para identificar el tipo de descuento (% o monto específico).
+
+Cupon debe contener un atributo para ingresar el valor del descuento (sea este un monto un porcentaje)
+
+Agregar a la tabla User un boolean para identicar si es un cliente especial.
